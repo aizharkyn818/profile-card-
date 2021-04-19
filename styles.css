@@ -1,7 +1,7 @@
 body {
   max-width: 1440px;
   background-color: #00B6C7;
-  background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+  background-image: url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
   background-position: -450px -500px, 600px 450px;
   background-repeat: no-repeat;
   text-align: center;
